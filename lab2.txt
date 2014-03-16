@@ -1,1 +1,17 @@
-Q
+Question 1: I have only used SVN before.
+Question 2: I have used a small amount of cmd and the linux console
+Question 3: Adds a file to git version control
+Question 4: Causes the files to be integrated locally
+Question 5: Commits the files to the server
+Question 6: There are 2 people on our team, and 3 copies including the master
+Question 7: There are 6 commits in the history
+Question 8: Ruji created the second commit in the repository's history
+Question 9: The second commit changed README
+Question 10: There are 2 members on our team.  There are 3 branches including the master
+Question 11: There are 0 files with a student's username in the main branch
+Question 12: git branch creates a new branch locally, which can be used to have parallel work going on for a project
+Question 13: git checkout changes which branch is being used
+Question 14: there are 2 team members and 3 copies of readme
+Question 15: 2 members and 2 merges, 1 ff merge and 1 manual merge
+Question 16: 3 branches
+Question 17: all student branches are behind the master branch due to not being updated with it.
